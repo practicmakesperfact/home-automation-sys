@@ -26,7 +26,7 @@ Arduino Uno
 
 Jumper wires
 
-[Figure 1: Circuit Diagram]
+
 
 3. Pin Mapping
 
