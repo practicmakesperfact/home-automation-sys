@@ -30,10 +30,10 @@ Jumper wires
 📍 3. Pin Mapping
 
 🧩 Component        🔌 Arduino Pin
-Pushbutton         D2
-Light LED          D3
-AC LED             D4
-Fridge LED         D5
+    Pushbutton         D2
+    Light LED          D3
+    AC LED             D4
+    Fridge LED         D5
 
 💬 4. Command List
 
